@@ -1,2 +1,2 @@
-# Langchain for commercial purposes
+# LangChain for Commercial Purposes
 
